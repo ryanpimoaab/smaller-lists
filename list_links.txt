@@ -10,3 +10,5 @@ https://ryanpimoaab.github.io/smaller-lists/Anudeep-adservers.txt
 
 
 https://ryanpimoaab.github.io/weekly/Anudeep-wildcard.txt
+
+try
