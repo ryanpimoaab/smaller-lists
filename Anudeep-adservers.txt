@@ -2154,3 +2154,6 @@ webmail.tugae2.com
 ftp.tugae2.com
 www.tugae2.com
 monero.tugae2.com
+127845-hb.adomik.com
+adbrau.com
+api.branch.io
