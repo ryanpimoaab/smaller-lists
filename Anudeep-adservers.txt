@@ -2157,3 +2157,8 @@ monero.tugae2.com
 127845-hb.adomik.com
 adbrau.com
 api.branch.io
+ad.api.kaffnet.com
+ads.vb-api.com
+api.growingio.com
+api.limbik.com
+api.recorder.duapps.com
