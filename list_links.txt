@@ -13,5 +13,6 @@ https://ryanpimoaab.github.io/smaller-lists/Adguard-mobile-ads.txt
 https://ryanpimoaab.github.io/smaller-lists/Adguard-safari-filter.txt
 https://ryanpimoaab.github.io/smaller-lists/Adguard-spyware.txt
 https://ryanpimoaab.github.io/smaller-lists/Adguard-annoyances.txt
+https://ryanpimoaab.github.io/smaller-lists/My-Blacklist.txt
 
 https://ryanpimoaab.github.io/weekly/Anudeep-wildcard.txt
