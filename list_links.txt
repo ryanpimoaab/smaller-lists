@@ -8,5 +8,9 @@ https://ryanpimoaab.github.io/smaller-lists/Anudeep-adservers.txt
 https://ryanpimoaab.github.io/smaller-lists/Greatis-web-miner.txt
 https://ryanpimoaab.github.io/smaller-lists/0.1-c0inblocklist-list.txt
 https://ryanpimoaab.github.io/smaller-lists/coin-list_browser.txt
+https://ryanpimoaab.github.io/smaller-lists/Adguard-mobile-ads.txt
+https://ryanpimoaab.github.io/smaller-lists/Adguard-safari-filter.txt
+https://ryanpimoaab.github.io/smaller-lists/Adguard-spyware.txt
+https://ryanpimoaab.github.io/smaller-lists/Adguard-annoyances.txt
 
 https://ryanpimoaab.github.io/weekly/Anudeep-wildcard.txt
