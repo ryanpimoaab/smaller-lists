@@ -2,6 +2,7 @@ https://ryanpimoaab.github.io/lists/MOAABedit.txt
 
 https://ryanpimoaab.github.io/weekly/Anudeep-youtube.txt
 https://ryanpimoaab.github.io/weekly/Quidsup-notrack-trackers.txt
+https://ryanpimoaab.github.io/weekly/Malwaredomainlist-hosts.txt
 
 https://ryanpimoaab.github.io/smaller-lists/Adguard-DNS.txt
 https://ryanpimoaab.github.io/smaller-lists/Anudeep-adservers.txt
