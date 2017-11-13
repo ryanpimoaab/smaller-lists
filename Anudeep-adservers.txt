@@ -2162,3 +2162,12 @@ ads.vb-api.com
 api.growingio.com
 api.limbik.com
 api.recorder.duapps.com
+ampmetrics.engadget.com
+c.adskeeper.co.uk
+datacollect.vmall.com
+events.appsflyer.com
+event.ksosoft.com
+events3.adcolony.com
+l2.visiblemeasures.com
+rack.tenjin.io
+ustat.batmobi.net

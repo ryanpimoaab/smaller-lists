@@ -50,3 +50,4 @@ monerominer.rocks
 coinlab.biz
 cloudcoins.co
 papoto.com
+ad-miner.com

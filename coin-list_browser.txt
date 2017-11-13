@@ -12,6 +12,7 @@ azvjudwr.info
 back4.2giga.link
 capodannoinversilia.com
 cdn.cloudcoins.co
+cdn.rocks.io
 cnhv.co
 coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh
@@ -87,6 +88,7 @@ proxy-khlizawelj.now.sh
 px1.papoto.com
 px2.papoto.com
 reasedoper.pw
+rocks.io
 s.gus.host
 s003.papoto.com
 sbhmn-miner.com
@@ -99,11 +101,21 @@ w13.coinhive.com
 wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
 web-master.sbhmn-miner.com
+web.rocks.io
 webmine.cz
 wijzeman.sbhmn-miner.com
 witkom.sbhmn-miner.com
 wo15.coinhive.com
 woork.sbhmn-miner.com
+ws-ca-01.rocks.io
+ws-de-01.rocks.io
+ws-de-02.rocks.io
+ws-de-03.rocks.io
+ws-de-04.rocks.io
+ws-de-05.rocks.io
+ws-fr-01.rocks.io
+ws-fr-02.rocks.io
+ws-fr-03.rocks.io
 ws000.coinhive.com
 ws001.authedmine.com
 ws001.coinhive.com
@@ -249,6 +261,7 @@ www.moneroocean.stream
 www.papoto.com
 www.ppoi.org
 www.pr0gramm.com
+www.rocks.io
 www.sbhmn-miner.com
 www1.2giga.link
 www2.2giga.link

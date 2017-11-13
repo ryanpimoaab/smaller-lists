@@ -72,6 +72,7 @@ btx.suprnova.cc
 cann.suprnova.cc
 capodannoinversilia.com
 cdn.cloudcoins.co
+cdn.rocks.io
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
@@ -112,6 +113,7 @@ de-wal-01.suprnova.cc
 de.ckpool.org
 de.kano.is
 de.moneroocean.stream
+deepbit.net
 deepc.cc
 deltapool.net
 deny.minemonero.pro
@@ -134,6 +136,7 @@ dogepool.rf.gd
 dsh.tugae2.com
 eac.suprnova.cc
 edgeno.de
+electroneum.mobile-mining.com
 electrum.bitcoin.cz
 electrum1.wemineltc.com
 email.crypto-coins.club
@@ -192,6 +195,7 @@ exp-us.dwarfpool.com
 exp.suprnova.cc
 expanse.miningpoolhub.com
 explorer.bitcoin-russia.ru
+f1.deepbit.net
 fail.suprnova.cc
 faraday.mmpool.org
 feathercoin.miningpoolhub.com
@@ -366,6 +370,7 @@ minnng.bitcoin.cz
 mint.bitminter.com
 minzpool.ml
 mmpool.org
+mobile-mining.com
 mobile.bitcoin.cz
 mona-api.suprnova.cc
 monacoin.miningpoolhub.com
@@ -427,6 +432,7 @@ pepe.suprnova.cc
 phkttm64gbquasaq.onion
 phoenixcoin.miningpoolhub.com
 pi2.bitcoin.cz
+pit.deepbit.net
 platform.jsecoin.com
 podrltid.info
 pool.antpool.com
@@ -466,6 +472,7 @@ ratchetmining.com
 rdd.coinedpool.com
 reactor.cc
 reasedoper.pw
+rocks.io
 s.gus.host
 s.zsolo.bid
 s003.papoto.com
@@ -610,6 +617,7 @@ w13.coinhive.com
 wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
 web-master.sbhmn-miner.com
+web.rocks.io
 webmail.tugae2.com
 webmine.cz
 wijzeman.sbhmn-miner.com
@@ -620,6 +628,15 @@ woork.sbhmn-miner.com
 world.wemineltc.com
 worm.suprnova.cc
 wp.bitcoin.cz
+ws-ca-01.rocks.io
+ws-de-01.rocks.io
+ws-de-02.rocks.io
+ws-de-03.rocks.io
+ws-de-04.rocks.io
+ws-de-05.rocks.io
+ws-fr-01.rocks.io
+ws-fr-02.rocks.io
+ws-fr-03.rocks.io
 ws000.coinhive.com
 ws001.authedmine.com
 ws001.coinhive.com
@@ -769,6 +786,7 @@ www.coinhive.com
 www.coinlab.biz
 www.crypto-coins.club
 www.crypto-loot.com
+www.deepbit.net
 www.deltapool.net
 www.dogepool.rf.gd
 www.eth.pp.ua
@@ -781,6 +799,7 @@ www.minemonero.pro
 www.miningpoolhub.com
 www.miningspeed.com
 www.minning.bitcoin.cz
+www.mobile-mining.com
 www.moneroocean.stream
 www.multipool.us
 www.p2pool.in
@@ -789,6 +808,7 @@ www.p2pool.org
 www.papoto.com
 www.ppoi.org
 www.pr0gramm.com
+www.rocks.io
 www.sbhmn-miner.com
 www.secumine.net
 www.slushpool.com
