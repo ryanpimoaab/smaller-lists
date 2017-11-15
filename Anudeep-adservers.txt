@@ -2171,3 +2171,7 @@ events3.adcolony.com
 l2.visiblemeasures.com
 rack.tenjin.io
 ustat.batmobi.net
+abtest.mistat.intl.xiaomi.com
+an.batmobi.net
+api.stats.appa.pe
+api5.batmobil.net

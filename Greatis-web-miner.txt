@@ -51,3 +51,5 @@ coinlab.biz
 cloudcoins.co
 papoto.com
 ad-miner.com
+rocks.io
+cookiescript.info

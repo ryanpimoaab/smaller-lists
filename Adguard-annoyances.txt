@@ -91,6 +91,7 @@ ourlife.in.ua
 rusnext.ru
 rusopen.com
 static.cdnslate.com
+i2.esmas.com
 policy.cookieinformation.com
 consent.truste.com
 iubenda.com
@@ -222,6 +223,7 @@ turkusozu.com
 ufatime.ru
 washingtonpost.com
 washingtonpost.com
+pushpad.xyz
 gagwebapi.com
 foxpush.com
 accengage.net
