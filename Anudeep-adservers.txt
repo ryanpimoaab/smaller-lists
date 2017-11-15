@@ -2175,3 +2175,9 @@ abtest.mistat.intl.xiaomi.com
 an.batmobi.net
 api.stats.appa.pe
 api5.batmobil.net
+applog.uc.cn
+applog.camera360.com
+device-metrics-us.amazon.com
+datacollect.vmall.com
+metrics.adage.com
+zeus.ad.intl.xiaomi.com

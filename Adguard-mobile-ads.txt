@@ -23,6 +23,7 @@ plugin.mobopay.baidu.com
 mo.freeindoapp.com
 recreativ.ru
 hqsjc.com
+tkmftc.aotter.net
 d32z5ni8t5127x.cloudfront.net
 sumatoad.com
 upsight-api.com
@@ -932,7 +933,6 @@ login.wi-fi.ru
 static.wi-fi.ru
 static0.wi-fi.ru
 extmaps-api.yandex.net
-tkmftc.aotter.net
 mobile-campaigns.avast.com
 ketchapp.org
 global.appnext.com
@@ -999,6 +999,8 @@ eviltracker.net
 spotify.com
 trackersimulator.org
 app.adjust.com
+tktracker.aotter.net
+tkrecorder.aotter.net
 android.bugly.qq.com
 astat.bugly.qq.com
 ios.bugly.qq.com
