@@ -2181,3 +2181,8 @@ device-metrics-us.amazon.com
 datacollect.vmall.com
 metrics.adage.com
 zeus.ad.intl.xiaomi.com
+ads.feedly.com
+bi-collector.oneapm.com
+lepodownload.mediatek.com
+pixel.realclever.com
+sdktm.w.inmobi.com
