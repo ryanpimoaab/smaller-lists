@@ -166,7 +166,6 @@ adxprts.co
 adz.raja.fm
 adzmediatracking.com
 ae.pubmatic.com
-ae01.alicdn.com
 aens.belugaboost.com
 aff-policy.lbesecapi.com
 aff-report.lbesecapi.com
@@ -2186,3 +2185,6 @@ bi-collector.oneapm.com
 lepodownload.mediatek.com
 pixel.realclever.com
 sdktm.w.inmobi.com
+adblockerkillswebsites.pw
+rlogs.youdao.com
+oc.googlesyndication.com
