@@ -284,7 +284,6 @@ api.sec.miui.com
 api.shuzilm.cn
 api.stg.fwmrm.net
 api.tinyhoneybee.com
-api.trakt.tv
 api.tw06.xlmc.sec.miui.com
 api.vanilla.futurecdn.net
 api.videoder.net
@@ -2188,3 +2187,8 @@ sdktm.w.inmobi.com
 adblockerkillswebsites.pw
 rlogs.youdao.com
 oc.googlesyndication.com
+ad.click.kaffnet.com
+adserver.snapads.com
+api.deep-ad.com
+counter.kingsoft.com
+feedback.adrecover.com
