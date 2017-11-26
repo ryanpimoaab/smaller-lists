@@ -2199,3 +2199,8 @@ api.oneaudience.com
 d.applovin.com
 l-v1.presage.io
 rt.applovin.com
+sdk.adincube.com
+api.pubnative.net
+sdklogs.avocarrot.com
+elemetry.layer.com
+dasdada.fu.ck
