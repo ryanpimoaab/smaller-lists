@@ -2212,3 +2212,6 @@ pixel.audienceinsights.net
 7832260049.log.optimizely.com
 storeconfig.mistat.intl.xiaomi.com
 fcanr.tracking.miui.com
+9lktu1teg9-1.algolianet.com
+9lktu1teg9-3.algolianet.com
+9lktu1teg9-dsn.algolia.net
