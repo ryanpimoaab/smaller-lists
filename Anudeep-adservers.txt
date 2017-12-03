@@ -1365,7 +1365,6 @@ prod-analytics.qlitics.com
 prod-collector.bigbasket.com
 profile.localytics.com
 profitrumour.com
-promo.fing.io
 promoted.hubsvc.itv.com1
 provideplant.com
 proxy-beta.smartlook.com
