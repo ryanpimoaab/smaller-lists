@@ -1932,6 +1932,7 @@ uop.umeng.com
 uoredi.com
 up1.powerfulcleaner.com
 updown.me
+upload.mobpowertech.com
 ups.ksmobile.net
 urs.cnet.com
 us-west-ads.aralego.com
@@ -2013,6 +2014,7 @@ webroot.needle.com
 websdk.moengage.com
 webview.unityads.unity3d.com
 wes.df.telemetry.microsoft.com
+wf.taboola.com
 wfnmmrtw.bid
 widget.cloud.opta.net
 widget.pushbullet.com
