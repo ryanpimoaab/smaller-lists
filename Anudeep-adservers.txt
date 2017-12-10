@@ -1807,9 +1807,7 @@ racksongs.dhingana.com
 raffic.broker.to
 raffic.tc-clicks.com
 rafflict.com
-rakt.tv
 ranscodedmedia.mobivite.net
-ransition.fcc.gov
 rcwt.com
 reffwerk.net
 remember.info
@@ -2222,3 +2220,8 @@ wf.taboola.com
 upload.mobpowertech.com
 8037800347.log.optimizely.com
 3279880017.log.optimizely.com
+3216.tm.zedo.com
+9lktu1teg9-2.algolianet.com
+amdc.m.taobao.com
+ads-sdk.avidly.com
+adztracking.com
