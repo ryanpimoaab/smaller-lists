@@ -18,7 +18,7 @@ securepubads.g.doubleclick.net
 secure.insightexpressai.com
 q.adrta.com
 cm.g.doubleclick.net
-https://www.googleadservices.com
+googladservices.com
 tpc.googlesyndication.com
 edge.quantserve.com
 pagead2.googlesyndication.com
